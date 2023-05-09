@@ -23,6 +23,7 @@ Projeto criado com VueJs e Vuetify onde foi feito um CRUD básico.
 - Excluir tarefa;
 - Mudar status para concluída;
 - Listar tarefas concluídas;
+- Armazenar dados no LocalStorage
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
