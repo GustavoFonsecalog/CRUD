@@ -1,0 +1,8 @@
+CREATE DATABASE todo_list;
+USE todo_list;
+
+CREATE TABLE tarefas (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  descricao VARCHAR(255) NOT NULL,
+  concluida BOOLEAN NOT NULL DEFAULT 0
+);
